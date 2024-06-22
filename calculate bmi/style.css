@@ -1,0 +1,48 @@
+
+body {
+  background-color: #f0f2f5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  max-width: 450px;
+  background: white;
+  padding: 30px;
+  margin-top: 50px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  margin-bottom: 30px;
+  color: #007bff;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.form-label {
+  font-weight: 500;
+}
+
+.btn-primary {
+  width: 100%;
+}
+
+#result, #bmi_weight_guide {
+  font-size: 1.2rem;
+  margin-top: 15px;
+  display: block;
+  text-align: center;
+}
+
+.text-success {
+  color: #28a745 !important;
+}
+
+.text-danger {
+  color: #dc3545 !important;
+}
+
+.text-warning {
+  color: #ffc107 !important;
+}
